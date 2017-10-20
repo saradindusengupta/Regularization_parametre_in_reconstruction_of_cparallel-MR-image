@@ -12,6 +12,8 @@ main_Ad_spirit(k,[3,3],20,mask)
 main_Ad_grappa(k,[3,3],20,mask)
 ```
 
+s=2 and 3 , nACS = 32,24 and 18 variably.
+
 *dataset is available at large amount in 3D raw data in high volume , not possible to push. The name of the dataset varies from
 FLAIR_17
 T2Weighted7
